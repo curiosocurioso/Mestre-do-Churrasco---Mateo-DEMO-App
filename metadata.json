@@ -1,0 +1,6 @@
+{
+  "name": "Guia Mestre do Churrasco Brasileiro",
+  "description": "Guia interativo em cartões com seleção de cortes brasileiros (Picanha, Fraldinha, Costela, Maminha, Cupim, Linguiça e mais), calculadoras de porção, simuladores de brasa e técnicas de corte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
