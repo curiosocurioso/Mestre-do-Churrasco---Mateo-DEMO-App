@@ -12,7 +12,13 @@ export type StepCategory =
   | 'servir'
   | 'resumo';
 
-export type MeatCategory = 'bovino_nobre' | 'bovino_tradicional' | 'suino' | 'ave' | 'ovino';
+export type MeatCategory =
+  | 'bovino_nobre'
+  | 'bovino_tradicional'
+  | 'suino'
+  | 'ave'
+  | 'ovino'
+  | 'vegetariano';
 
 export interface VisualInspectionItem {
   id: string;
